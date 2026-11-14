@@ -110,10 +110,10 @@ Run:
 ## Project Links
 
 Project 2 - AdSpend IQ:
-https://github.com/farazshafique034-commits/ADSpend_IQ-Project-2
+[https://github.com/farazshafique034-commits/ADSpend_IQ-Project-2]
 
 Project 1 - SHEIN Sentiment Analysis:
-https://github.com/farazshafique034-commits/SHEIN-REVIEWS-SENTIMENT-ANALYSIS
+[https://github.com/azfaramjad02-code/Sentiment_Analysis_task1]
 
 ## Future Integration
 
